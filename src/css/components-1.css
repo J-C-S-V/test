@@ -1,0 +1,16 @@
+html {
+  height: 500vh;
+}
+
+.image-function-component {
+  border: 3px solid rgb(53, 43, 130);
+  width: 30%;
+}
+
+h1 {
+  text-align: center;
+}
+
+/* .componente-div {
+  width: 50%;
+} */
